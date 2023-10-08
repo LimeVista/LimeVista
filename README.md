@@ -1,6 +1,6 @@
 # About
 
-[![LimeVista's GitHub stats](https://github-readme-stats-limevista.vercel.app/api?username=LimeVista&show_icons=true&theme=vue&count_private=true&hide=contribs)](https://github.com/LimeVista)
+[![LimeVista's GitHub stats](https://github-readme-stats.vercel.app/api?username=LimeVista&show_icons=true&theme=vue&count_private=true&hide=contribs)](https://github.com/LimeVista)
 
 ### Write
 #### Nice
